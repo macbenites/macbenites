@@ -13,7 +13,7 @@ lover of new technologies and passionate about self-learning.
 - 💬 Ask me about anything <a href="https://t.me/MarlonAlexis">Here</a>.
 - :book: I'm book lover
 
-### Social Media:
+**Social Media:**
 
 <p align="center">
 
@@ -34,7 +34,7 @@ lover of new technologies and passionate about self-learning.
 </a>
 </p>
 
-### Languages and Tools:
+**Languages and Tools:**
 
 <br />
 <p align="center">
@@ -55,7 +55,7 @@ lover of new technologies and passionate about self-learning.
 
 </p>
 
-### Distributions
+Distributions:**
 
 <br />
 <p align="center">
@@ -92,7 +92,7 @@ lover of new technologies and passionate about self-learning.
 
 </p>
 
-### Platforms
+**Platforms:**
 
 <br />
 <p align="center">
