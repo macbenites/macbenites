@@ -7,11 +7,11 @@ lover of new technologies and passionate about self-learning.
 <br />
 <br />
 
-- 🌱 I’m currently learning [React.JS](https://reactjs.org/)
+- 🌱 I’m currently learning [React.JS](https://reactjs.org/).
 - 🚀 Always ready to collaborate on a development team.
-- 🎯 Life Hack: "I don't have dreams, I have goals"
+- 🎯 Life Hack: "I don't have dreams, I have goals".
 - 💬 Ask me about anything <a href="https://t.me/MarlonAlexis">Here</a>.
-- :book: I'm book lover
+- :book: I'm book lover.
 
 <br />
 <hr>
