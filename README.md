@@ -14,7 +14,7 @@ lover of new technologies and passionate about self-learning.
 - :book: I'm book lover
 
 <br />
-
+<hr>
 
 **Languages and Tools:**
 
