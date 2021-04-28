@@ -13,27 +13,6 @@ lover of new technologies and passionate about self-learning.
 - 💬 Ask me about anything <a href="https://t.me/MarlonAlexis">Here</a>.
 - :book: I'm book lover
 
-**Social Media:**
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/marlonalexisacostabenites">
-<code>
-<img alt="MarlonAcostaBenites | Linkedin" width="24px" src="https://user-images.githubusercontent.com/59841113/116431386-5c35c100-a80d-11eb-991c-35c5f4cb97f4.png" />
-</code>
-</a>
-<a href="https://twitter.com/alexisacostab7?=09">
-<code>
-<img alt="MarlonAcostaBenites | Twitter" width="24px" src="https://user-images.githubusercontent.com/59841113/116431303-46c09700-a80d-11eb-896b-8329c41c9fad.png" />
-</code>
-</a>
-<a href="https://www.instagram.com/marlonacostab/">
-<code>
-<img alt="MarlonAcostaBenites | Instagram" width="24px" src="https://user-images.githubusercontent.com/59841113/116435500-095e0880-a811-11eb-9c2a-4b12c4d6384e.png" />
-</code>
-</a>
-</p>
-
 **Languages and Tools:**
 
 <br />
