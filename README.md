@@ -55,7 +55,7 @@ lover of new technologies and passionate about self-learning.
 
 </p>
 
-Distributions:**
+**Distributions:**
 
 <br />
 <p align="center">
