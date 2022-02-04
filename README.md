@@ -1,4 +1,4 @@
-### 👋 Hi, I’m macbenites
+## 👋 Hi, I’m Marlon Acosta
 
 I’m a computer systems engineer student at [Nort Private University](https://www.upn.edu.pe/).
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/59841113/116446751-e174a200-a81c-11eb-8387-d5aca6668bbc.gif" />
@@ -94,30 +94,27 @@ lover of new technologies and passionate about self-learning.
   </tbody>
 </table>
 
-## Platforms
+## 📌Mis Proyectos 
+  #### 🌎 Countries App
+  <p align="left"><strong>Technologies:</strong> React.js, HTML5, Styled-Components, NodeJS, Express, Sequelize and PostgreSQL.</p>
+  <p align="center"> 
+    <img src="https://user-images.githubusercontent.com/59841113/152474691-dd75abff-3c63-427c-a73f-d84a087c7c39.jpg" alt="Landing Page" width="450" height="250"/>
+    <img src="https://user-images.githubusercontent.com/59841113/152473769-380dd8f9-c621-4ba8-8316-d8d317d4714b.png" alt="Home" width="450" height="250"/>
+<img src="https://user-images.githubusercontent.com/59841113/152474706-7a47f93c-ef05-4ff4-be41-ff0ef66a2108.jpg" alt="Search" width="450" height="250"/>
+	 <img src="https://user-images.githubusercontent.com/59841113/152474722-47cdde49-fc61-4065-96e9-348f1a6973a3.jpg" alt="Detail" width="450" height="250"/>
+	 <img src="https://user-images.githubusercontent.com/59841113/152474734-2bc91053-b455-40c8-b688-245e4c2a1e92.jpg" alt="Form" width="450" height="250"/>
+  </p>
 
-<br />
-<br />
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="110" align="center">
-	      <span><strong>Linux</strong></span><br><br>
-        <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/linux.svg">
-      </td>
-      <td width="110" align="center">
-        <span><strong>Raspberry Pi</strong></span><br><br>
-        <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg">
-      </td>
-      <td width="110" align="center">
-        <span><strong>Windows</strong></span><br><br>
-        <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Windows.svg">
-      </td>
-     </tr>
-  </tbody>
-</table>
+  #### 🌦️Weather App
+  <p align="left"><strong>Technologies:</strong> ReactJS, HTML, Styled-Components.</p>
+  <p align="center"> 
+    <img src="https://user-images.githubusercontent.com/59841113/152475358-daf44fc7-a3c7-4060-bee6-f9a67ea0e8c7.png" alt="Home" width="450" height="250"/>
+    <img src="https://user-images.githubusercontent.com/59841113/152475528-6f10e31f-0a6a-4891-accb-11ab63825262.png" alt="Cities" width="450" height="250"/>
+    <img src="https://user-images.githubusercontent.com/59841113/152475578-47c4e3e8-e500-449a-9a87-df04d6d0ff7b.png" alt="About" width="450" height="250"/>
+    <img src="https://user-images.githubusercontent.com/59841113/152475777-60ffbf1c-33bf-4eb8-978a-ce12dad1eec1.png" alt="Detail City" width="450" height="250"/>
+  </p>
 
-### 📈 Statistics
+## 📈 Statistics
 <br />
 <br />
 <p align=center>
@@ -134,6 +131,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br />
 
-### 📫 Contact me
+## 📫 Contact me
 
 #### [linkedin]: https://www.linkedin.com/in/marlonacostafullstack/
