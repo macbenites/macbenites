@@ -110,8 +110,8 @@ lover of new technologies and passionate about self-learning.
   <p align="center"> 
     <img src="https://user-images.githubusercontent.com/59841113/152475358-daf44fc7-a3c7-4060-bee6-f9a67ea0e8c7.png" alt="Home" width="450" height="250"/>
     <img src="https://user-images.githubusercontent.com/59841113/152475528-6f10e31f-0a6a-4891-accb-11ab63825262.png" alt="Cities" width="450" height="250"/>
-    <img src="https://user-images.githubusercontent.com/59841113/152475578-47c4e3e8-e500-449a-9a87-df04d6d0ff7b.png" alt="About" width="450" height="250"/>
-    <img src="https://user-images.githubusercontent.com/59841113/152475777-60ffbf1c-33bf-4eb8-978a-ce12dad1eec1.png" alt="Detail City" width="450" height="250"/>
+    <img src="https://user-images.githubusercontent.com/59841113/152476286-d9f2c299-9037-4b2e-9755-c673718d897e.png" alt="About" width="450" height="250"/>
+    <img src="https://user-images.githubusercontent.com/59841113/152476311-7ebddc3d-e247-4516-92b8-d300c2f523c6.png" alt="Detail City" width="450" height="250"/>
   </p>
 
 ## 📈 Statistics
