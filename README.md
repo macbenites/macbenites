@@ -19,23 +19,83 @@ lover of new technologies and passionate about self-learning.
 **Languages and Tools:**
 
 <br />
-<p align="center">
-    <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-    <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-    <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-    <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-    <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-    <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-    <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity3d.svg"></code>
-    <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-    <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-    <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/icons8-c++.svg" width="24" /></code>
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24" /></code>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50px" align="center">
+	      <span><strong>Python</strong></span><br><br>
+        <img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>Java</strong></span><br><br>
+        <img height="45px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>C++</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+      </td>
+       <td width="50px" align="center">
+        <span><strong>JavaScript</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      </td>
+       <td width="50px" align="center">
+        <span><strong>Express</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>Node.js</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>Redux</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>React.js</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+      </td>
+     </tr>
+    <tr valign="top">
+      <td width="50px" align="center">
+        <span><strong>CSS</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>Html5</strong></span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>Git</strong></span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>Figma</strong></span><br><br>
+        <img height="45px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+      </td>
+      <td width="50px" align="center">
+        <span><strong>Postgres</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+      </td>
+        <td width="50px" align="center">
+        <span><strong>Mysql</strong></span><br><br>
+        <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+      </td>
+       <td width="50px" align="center">
+        <span><strong>Sqlite</strong></span><br><br>
+        <img height="45px" src="
+https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite">
+      </td>
+       <td width="50px" align="center">
+        <span><strong>Arduino</strong></span><br><br>
+        <img height="45px" src="
+https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+      </td>
+    </tr>
+     
 
-</p>
+  </tbody>
+</table>
+
 
 **Distributions:**
 
