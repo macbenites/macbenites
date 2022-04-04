@@ -98,20 +98,13 @@ lover of new technologies and passionate about self-learning.
   #### 🌎 Countries App
   <p align="left"><strong>Technologies:</strong> React.js, HTML5, Styled-Components, NodeJS, Express, Sequelize and PostgreSQL.</p>
   <p align="center"> 
-    <img src="https://user-images.githubusercontent.com/59841113/152474691-dd75abff-3c63-427c-a73f-d84a087c7c39.jpg" alt="Landing Page" width="350" height="200"/>
     <img src="https://user-images.githubusercontent.com/59841113/152473769-380dd8f9-c621-4ba8-8316-d8d317d4714b.png" alt="Home" width="350" height="200"/>
-<img src="https://user-images.githubusercontent.com/59841113/152474706-7a47f93c-ef05-4ff4-be41-ff0ef66a2108.jpg" alt="Search" width="350" height="200"/>
-	 <img src="https://user-images.githubusercontent.com/59841113/152474722-47cdde49-fc61-4065-96e9-348f1a6973a3.jpg" alt="Detail" width="350" height="200"/>
-	 <img src="https://user-images.githubusercontent.com/59841113/152474734-2bc91053-b455-40c8-b688-245e4c2a1e92.jpg" alt="Form" width="350" height="200"/>
   </p>
 
   #### 🌦️Weather App
   <p align="left"><strong>Technologies:</strong> ReactJS, HTML, Styled-Components.</p>
   <p align="center"> 
-    <img src="https://user-images.githubusercontent.com/59841113/152475358-daf44fc7-a3c7-4060-bee6-f9a67ea0e8c7.png" alt="Home" width="350" height="200"/>
     <img src="https://user-images.githubusercontent.com/59841113/152475528-6f10e31f-0a6a-4891-accb-11ab63825262.png" alt="Cities" width="350" height="200"/>
-    <img src="https://user-images.githubusercontent.com/59841113/152476286-d9f2c299-9037-4b2e-9755-c673718d897e.png" alt="About" width="350" height="200"/>
-    <img src="https://user-images.githubusercontent.com/59841113/152476311-7ebddc3d-e247-4516-92b8-d300c2f523c6.png" alt="Detail City" width="350" height="200"/>
   </p>
 
 ## 📈 Statistics
